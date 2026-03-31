@@ -4,7 +4,7 @@ The project for "Digital Literacy" course of winter 26' sem .
 
 
 ## Name:Kritika Jain 
-## Branch: B.Tech CSE  
+## Branch: B.Tech CSE  (AI & ML)
 ## Year: 1st Year  
 
 ## Project Overview
